@@ -3,7 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-.java linguist-detectable=true
+.js linguist-detectable=true
 ### STS ###
 .apt_generated
 .classpath
